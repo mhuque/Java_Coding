@@ -13,6 +13,8 @@ public class StringTest {
 		System.out.println(s1==s2);
 		System.out.println(s1!=s2);
 		
+		System.out.println(s1);
+		
 	}
 
 }
